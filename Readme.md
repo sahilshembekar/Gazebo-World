@@ -1,8 +1,5 @@
 ## Udacity Nanodegree Project 1: Build my world
 
-### Demo Office World
-
-![Demo Office World](https://github.com/sahilshembekar/Gazebo-world/tree/master/images/DemoOffice.jpg?raw=true)
 ### Objective
 To simulate a world in Gazebo.
 
