@@ -1,5 +1,8 @@
 ## Udacity Nanodegree Project 1: Build my world
 
+### Demo Office world
+
+
 ### Objective
 To simulate a world in Gazebo.
 
@@ -35,14 +38,12 @@ You need to have Gazebo installed on your Linux system.
 ### Implementation
 First build the plugin and update it.
 Write the below commands on Terminal.
-
 ```
 $ cd /home/robond/Desktop/First-Project
 $ cd build/
 $ cmake ../
 $ make # You might get errors if your system is not up to date!
 $ export GAZEBO_PLUGIN_PATH=${GAZEBO_PLUGIN_PATH}:/home/robond/Desktop/First-Project/build
-
 ```
 
 Now navigate to the world directory and run the following commands.
