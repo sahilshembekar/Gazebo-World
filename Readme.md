@@ -24,7 +24,7 @@ To simulate a world in Gazebo.
     ├── world                          # Gazebo main World containing models 
     │   ├── DemoOffice.world
     ├── CMakeLists.txt                 # Link libraries 
-    └── build
+    └
 
 ```
 
